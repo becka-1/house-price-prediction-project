@@ -9,6 +9,7 @@ A machine learning project that predicts house prices using Scikit-Learn.
 - NumPy
 - Matploltlib
 - Scikit-Learn
+- Seaborn
 
 ## Workflow
 
